@@ -1,6 +1,6 @@
 # BG3-Mystra-Spells-ListOnly
 
-This file contains an HTML file which was procedurally generated using python scripts. Such scripts were used to parse the mod files, extracted with bg3 modders multitool in windows.
+This repository contains a HTML file which was procedurally generated using python scripts that were used to parse the mod files, extracted with bg3 modders multitool in windows. 
 
 The file can be viewed offline. It embeds icon images with base64 encoding, and contains icon images from the game as a means of displaying spell icons within its dialogs without the need of hosting images somewhere else. For this reason, the HTML file size may be larger than usual. Around ~10MB or so.
 
@@ -17,5 +17,5 @@ In order to start out, **download** the spell list, and open it with your browse
 ---
 
 TODO:
- - Add from which classes each spell belongs to
+ - Keep adding more descriptions to spells based on their source files' parameters
  - Add Status effects (this one will take me time)
