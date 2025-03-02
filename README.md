@@ -9,3 +9,9 @@ The file is used to open up dialogs that can be dragged down on the screen, and 
 ---
 
 In order to start out, **download** the spell list, and open it with your browser. Have fun!
+
+---
+
+TODO:
+ - Add from which classes each spell belongs to
+ - Add Status effects (this one will take me time)
