@@ -17,5 +17,6 @@ In order to start out, **download** the spell list, and open it with your browse
 ---
 
 TODO:
+ - Found bug on character-level levelmaps for greenflame blade/booming blade cantrips descriptions, if level is >= 10.
  - Keep adding more descriptions to spells based on their source files' parameters
  - Add Status effects (this one will take me time)
